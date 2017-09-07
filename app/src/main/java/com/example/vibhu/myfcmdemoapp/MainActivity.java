@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Hello world");
 
         /* I have to commit in branch directory*/
-        System.out.println("Hello Branch");
+        System.out.println("Hello Branch world");
     }
 }

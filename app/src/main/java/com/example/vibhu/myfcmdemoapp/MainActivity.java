@@ -10,5 +10,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("Hello world");
+
+        /* I have to commit in branch directory*/
+        System.out.println("Hello Branch");
     }
 }
